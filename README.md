@@ -218,8 +218,3 @@ A secure RESTful API built with Node.js, Express, and MongoDB for user authentic
 GitHub: [@diwakarshukla941](https://github.com/diwakarshukla941)  
 LinkedIn: [Diwakar Shukla](https://www.linkedin.com/in/diwakar-shukla-252a4a19b/)
 
----
-
-## 📃 License
-
-This project is licensed under the MIT License.
